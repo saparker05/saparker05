@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying a Software Engineering bootcamp course with HyperionDev.
+- 🔭 I have recently completed a Software Engineering bootcamp course with HyperionDev and a Learn PHP Course through Codecademy.
 - 🌱 I’m currently learning Python, SQL, Git, HTML, CSS, Bootstrap, Django and more.
 - 📫 How to reach me: saparker05@gmail.com
 - 😄 Pronouns: she/her
